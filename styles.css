@@ -29,6 +29,9 @@
     display: flex;
     flex-direction: column;
   }
+  .card .pic{
+    border-radius: 0.85rem;
+  }
   .card .header {
     color: #122b61;
     margin: 0;
