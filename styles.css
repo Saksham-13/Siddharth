@@ -10,7 +10,7 @@
     place-items: center;
     justify-content: center;
     grid-gap: 1rem;
-    min-height: 100vh;
+    min-height: 150vh;
     padding: 1rem;
     background: conic-gradient(#98d6f3, #fea2b1, #f7f1fa, #f7f1fa, #98d6f3, #98d6f3);
     -webkit-backdrop-filter: blur(20px);
